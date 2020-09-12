@@ -1,0 +1,32 @@
+{
+  "name": "course_site1",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "HTML CSS"
+  ],
+  "license": "MIT",
+  "author": "async-devil",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html --open",
+    "start": "npm run build && npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/async-devil/course_site1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/async-devil/course_site1/issues"
+  },
+  "homepage": "https://github.com/async-devil/course_site1#readme"
+}
