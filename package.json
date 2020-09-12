@@ -1,7 +1,7 @@
 {
-  "name": "course_site1",
+  "name": "site",
   "version": "0.0.1",
-  "description": "",
+  "description": "``` npm i ```",
   "keywords": [
     "HTML CSS"
   ],
