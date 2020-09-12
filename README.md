@@ -1,1 +1,9 @@
-# course_site1
+# Installation
+```
+npm i
+```
+
+# Execution
+```
+npm run start
+```
